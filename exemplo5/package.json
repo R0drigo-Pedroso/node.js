@@ -1,0 +1,12 @@
+{
+
+  "type": "module",
+
+  "dependencies": {
+
+    "chalk": "^5.0.1"
+
+  }
+
+}
+
