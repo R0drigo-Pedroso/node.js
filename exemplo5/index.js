@@ -4,7 +4,7 @@ import chalk from 'chalk';
 console.log(chalk.red('Trabalhando com NPM'));
 
 let aluno = "Rodrigo";
-let idade = 25;
+let idade =14;
 
 if(idade >=18){
     console.log(`${aluno} ${chalk.bgCyan('é maior de Idade!')}`);
